@@ -1,0 +1,3 @@
+Helpwrapper makes it easy to access help from within a buffer. It takes
+the file type and opens help when requested via <leader>K or :Help
+command.
